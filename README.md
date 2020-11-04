@@ -2,6 +2,7 @@
 
 *elly-iterm2* is a nostalgic and brown-based iTerm2 color theme.
 
+<img alt="elly iterm2" src="https://user-images.githubusercontent.com/41639488/98157819-3f36ca00-1f1d-11eb-962c-17f33996bd48.png">
 
 ## Installation
 
@@ -13,3 +14,6 @@
 
 ## Issues
 This theme is in early development. If you find some bugs, please submit a issue.
+
+## Related Projects
+- https://github.com/ryuta69/elly.vim
