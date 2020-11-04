@@ -17,3 +17,18 @@ This theme is in early development. If you find some bugs, please submit a issue
 
 ## Related Projects
 - https://github.com/ryuta69/elly.vim
+
+## [Tips] elly theme for powerlevel10k
+
+```zsh
+typeset -g POWERLEVEL9K_DIR_FOREGROUND=12
+typeset -g POWERLEVEL9K_DIR_ANCHOR_FOREGROUND=4
+typeset -g POWERLEVEL9K_DIR_SHORTENED_FOREGROUND=4
+typeset -g POWERLEVEL9K_PROMPT_CHAR_OK_{VIINS,VICMD,VIVIS,VIOWR}_FOREGROUND=12
+typeset -g POWERLEVEL9K_PROMPT_CHAR_ERROR_{VIINS,VICMD,VIVIS,VIOWR}_FOREGROUND=88
+
+local      clean='%9F'
+local   modified='%58F'
+local  untracked='%6F'
+local conflicted='%88F'
+```
