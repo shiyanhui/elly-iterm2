@@ -6,8 +6,6 @@
 
 <img alt="elly.vim" src="https://user-images.githubusercontent.com/41639488/98123673-814c1580-1ef5-11eb-8520-06af6404e738.png">
 
-<img alt="elly.vim" src="https://user-images.githubusercontent.com/41639488/98116862-3d084780-1eec-11eb-9d3c-6937554cb285.png">
-
 ## Installation
 
 1. open iTerm > `Preferences` > `Profiles` > `Colors` Tab
@@ -36,3 +34,7 @@ local   modified='%58F'
 local  untracked='%6F'
 local conflicted='%88F'
 ```
+
+## Articles
+
+- Trending #1 in Reddit/r/unixporn: https://www.reddit.com/r/unixporn/comments/jo36fx/rectangle_i_created_a_new_color_theme_which_is/
