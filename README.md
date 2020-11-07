@@ -19,6 +19,7 @@ This theme is in early development. If you find some bugs, please submit a issue
 
 ## Related Projects
 - https://github.com/ryuta69/elly.vim
+- https://github.com/ryuta69/elly-tmux
 
 ## [Tips] elly theme for powerlevel10k
 
